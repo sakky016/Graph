@@ -5,7 +5,7 @@
 #define VERTICES 50000
 #define EDGES 10000
 #define EDGE_REMOVAL_ATTEMPTS 0
-#define NAME_SIZE 1
+#define NAME_SIZE 2
 
 
 
